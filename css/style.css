@@ -1,0 +1,66 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+     box-sizing: border-box;
+
+}
+.logo{
+    text-align: center;
+    margin: 40px 0;
+}
+.logo img{
+    width: 100px;
+}
+.logo h2{
+    font-size: 30px;
+    font-weight: 600;
+    color:#4F6466;
+}
+
+.réservations{
+    text-align: center;
+}
+
+.réservations p{
+    font-size: 25px;
+    font-weight: 600;
+    
+}
+
+.réservations input{
+    width: 50%;
+    margin-bottom: 10px;
+    padding: 10px;
+
+}
+
+.réservations input[type="submit"]{
+    font-size: 16px;
+    color: white;
+    background:#4F6466;
+    border: none;
+
+}
+
+table{
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    font-size: 20px;
+    
+
+}
+
+th{
+    background:#4F6466 ;
+    color: white;
+    padding: 15px 0;
+    
+}
+
+.text{
+    text-align: center;
+}
+
+
+
+
